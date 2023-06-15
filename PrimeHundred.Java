@@ -11,7 +11,7 @@ public static void main(String[] args) {
 					
 			}
 				if(c==2) {
-			System.out.print(j+",");
+			System.out.print (j+",");
 			}
 			}
 		 }
